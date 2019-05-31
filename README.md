@@ -1,6 +1,6 @@
 # README
 
-## Tic-Tac-Toe
+## Rest Tester
 A rails application to test rest endpionts
 
 ## Built With
